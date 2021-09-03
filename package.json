@@ -22,7 +22,7 @@
   "dependencies": {
     "@ant-design/pro-layout": "^6.5.0",
     "@umijs/preset-react": "1.x",
-    "natur": "^2.1.4",
+    "natur": "^2.1.9",
     "umi": "^3.4.15"
   },
   "devDependencies": {
